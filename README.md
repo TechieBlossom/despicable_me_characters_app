@@ -1,4 +1,4 @@
-# fitness_app
+# despicable_me_characters_app
 
 Created a demo for Despicable Me Characters in Flutter. You will learn Gradients, Custom Clipper, Hero Transition, creating Responsive UI, PageView, Custom Bottom Sheet
 
