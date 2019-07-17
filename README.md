@@ -12,7 +12,7 @@ Started this project as a design mock up for Fitness App
 **Part 1-** https://youtu.be/-5DTrcXxGs8
 You will learn Gradients, Custom Clipper, Hero Transition, creating Responsive UI.
 
-**Part 2-** <Link coming shortly>
+**Part 2-** https://youtu.be/2cl70GbiJZc
 You will learn PageView and Custom Bottom Sheet Implementation.
 
 
